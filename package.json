@@ -1,0 +1,9 @@
+{
+	"name": "nervy-nodejs",
+	"description": "",
+	"license" : "ISC",
+	"main": "index.js",
+	"dependencies": {
+		"express": "~4"
+	}
+}
